@@ -1,8 +1,8 @@
-# ‍ Aylton Oliveira Feitosa
+# 👨🏽‍💻 Aylton Oliveira Feitosa
 
-**Desenvolvedor Full Stack**
+**`Desenvolvedor FullStack`**
 
-Olá! Me chamo Aylton Feitosa, tenho 25 anos e moro em Vila Velha, ES. Sou apaixonado por tecnologia e estou sempre em busca de novos desafios e aprendizados. Atualmente, curso Sistemas de Informação na UVV e busco minha primeira oportunidade como desenvolvedor.
+Olá! Me chamo Aylton Oliveira Feitosa, tenho 25 anos e moro em Vila Velha, ES. Sou apaixonado por tecnologia e estou sempre em busca de novos desafios e aprendizados. Atualmente, curso Sistemas de Informação na UVV e busco minha primeira oportunidade como desenvolvedor.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/ayltonfeitosa">
@@ -30,7 +30,7 @@ Olá! Me chamo Aylton Feitosa, tenho 25 anos e moro em Vila Velha, ES. Sou apaix
 
 ---
 
-###  Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -50,11 +50,19 @@ Olá! Me chamo Aylton Feitosa, tenho 25 anos e moro em Vila Velha, ES. Sou apaix
 />
 <img 
     align="left" 
-    alt="Express"
-    title="Express" 
+    alt="Python" 
+    title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="C#"
+    title="C#" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
 />
 <img 
     align="left" 
@@ -120,27 +128,11 @@ Olá! Me chamo Aylton Feitosa, tenho 25 anos e moro em Vila Velha, ES. Sou apaix
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C#"
-    title="C#" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
-/>
 
 <br/>
 <br/>
 
-###  Estatísticas
+### 📊 Estatísticas
 
 <p>
   <img 
@@ -159,5 +151,3 @@ Olá! Me chamo Aylton Feitosa, tenho 25 anos e moro em Vila Velha, ES. Sou apaix
   />
 
 </p>
-
-
